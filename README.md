@@ -1,21 +1,28 @@
-# Machine-Vision-pose-estimation-
-Pose Estimation in Machine Vision
+**Machine-Vision-pose-estimation**
+
 
 This repository contains a Python script that performs pose estimation using OpenCV and the Mediapipe library. The script reads frames from a video file and applies pose estimation algorithms to detect and visualize human poses.
 
-Installation
+**Installation:**
+
 To run the code in this repository, you need to have the following dependencies installed:
 
+
 Python 3
+
 OpenCV
+
 Mediapipe
+
 NumPy
-You can install the necessary dependencies using the following command:
+
+
 
 To use the code in this repository, follow these steps:
 
 
-***Make sure you have a video file in the specified path (C:/Users/Mehrdad/PycharmProjects/Files and codes/clips/4.mp4). If you have a different video file, update the path accordingly in the code.**
+**Make sure you have a video file in the specified path (C:/Users/Mehrdad/PycharmProjects/Files and codes/clips/4.mp4). If you have a different video file, update the path accordingly in the code.**
+
 
 **The script will process each frame of the video, perform pose estimation, and display the results in two windows: "Pose" and "Blank".
 The "Pose" window shows the original frame with overlaid pose landmarks and connections.
