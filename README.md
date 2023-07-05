@@ -18,7 +18,7 @@ NumPy
 
 
 
-To use the code in this repository, follow these steps:
+**To use the code in this repository, follow these steps:**
 
 
 **Make sure you have a video file in the specified path (C:/Users/Mehrdad/PycharmProjects/Files and codes/clips/4.mp4). If you have a different video file, update the path accordingly in the code.**
